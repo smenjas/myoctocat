@@ -1,0 +1,26 @@
+{
+  "name": "smenjas-octocat",
+  "version": "1.0.0",
+  "description": "A custom octocat avatar.",
+  "main": "myoctocat.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smenjas/myoctocat.git"
+  },
+  "keywords": [
+    "octocat"
+  ],
+  "author": "Benjamin Thornton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smenjas/myoctocat/issues"
+  },
+  "homepage": "https://github.com/smenjas/myoctocat#readme",
+  "dependencies": {
+    "octocat": "^1.2.1",
+    "p5": "^1.1.9"
+  }
+}
